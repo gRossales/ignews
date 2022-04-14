@@ -1,5 +1,6 @@
 module.exports = {
   testPathIgnorePatterns: ["/node_modules/","/.next/"],
+  setupFiles:["<rootDir>/.jest/setEnvVars.js"],
   setupFilesAfterEnv:[
     "<rootDir>/src/tests/setupTests.ts"
   ],

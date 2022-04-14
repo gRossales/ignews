@@ -15,6 +15,10 @@
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
   </a>
 
+  <a href="https://codecov.io/gh/gRossales/ignews">
+    <img src="https://codecov.io/gh/gRossales/ignews/branch/main/graph/badge.svg?token=NWYBY5LP6S"/>
+  </a>
+
   <a href="https://linkedin.com/in/gabriel-rossales-a01a51185">
     <img alt="Made by Gabriel Rossales" src="https://img.shields.io/badge/made%20by-Gabriel%20Rossales-%237519C1">
   </a>
